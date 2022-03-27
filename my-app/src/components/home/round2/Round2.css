@@ -1,0 +1,27 @@
+.container_round2{
+    height: 100vh;
+    background-color: black;
+    color: white;
+   text-align: center;
+   font-size: 25px;
+}
+.investor_round_table{
+    display: flex;
+    flex-direction: row;
+    margin-left: 10vw;
+    margin-right: 10vw;
+    align-items: center;
+    
+}
+.matrix_A_input{
+    display: flex;
+    flex-direction: column;
+    border: #1CB28E 1px solid;
+}
+.matrix_A{
+    border: #1CB28E 1px solid;
+    margin: 20px;
+}
+.matrix_A_category{
+    margin-top: 10px;
+}
