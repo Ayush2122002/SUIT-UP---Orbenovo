@@ -1,0 +1,25 @@
+.container_report{
+    height: 100vh;
+    background-color: black;
+    color: white;
+   text-align: center;
+   font-size: 25px;
+}
+.report_heading{
+    margin: 30px;
+}
+.report_content{
+    margin: 20px;
+}
+.rank{
+    margin: 20px;
+}
+.position{
+    margin: 20px;
+}
+.footer_report1{
+    margin-top: 140px;
+}
+.footer_report2{
+    margin-top: 20px;
+}

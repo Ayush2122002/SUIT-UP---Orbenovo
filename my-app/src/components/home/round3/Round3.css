@@ -1,0 +1,37 @@
+.container_round3{
+    height: 100vh;
+    background-color: black;
+    color: white;
+   text-align: center;
+   font-size: 25px;
+  
+}
+.table_target_customer{
+    display: flex;
+    flex-direction: row;
+    margin: 50px;
+    margin-left:40vw;
+}
+.col1_sno{
+    margin: 10xp;
+    margin-right: 20px;
+}
+.sno_entry{
+    /* border: #1cb28e 1px solid; */
+    margin: 10px;
+}
+.city{
+    /* border: #1cb28e 1px solid; */
+    margin: 10px;
+}
+.city_input{
+    width: 97%;
+    height: 27px;
+    background-color: black;
+    border: #1cb28e 1px solid;
+    border-radius: 10px;
+    
+}
+.round3_heading{
+    margin: 30px;
+}

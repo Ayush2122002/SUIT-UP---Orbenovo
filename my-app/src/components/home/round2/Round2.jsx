@@ -15,10 +15,10 @@ function Round2() {
         <div className="round1_heading">Round 1 - Investor's Round</div>
 <div className="investor_round_table">
     <div className="invest_col1">
-        <div className="matrix_A_category">*</div>
-        <div className="matrix_A_category">Banks</div>
-        <div className="matrix_A_category">Angel Investor</div>
-        <div className="matrix_A_category">NBFCs</div>
+        <div className="matrix_A_category1">*</div>
+        <div className="matrix_A_category2">Banks</div>
+        <div className="matrix_A_category3">Angel Investor</div>
+        <div className="matrix_A_category4">NBFCs</div>
     </div>
     <div className="invest_col2">
         <div className="matrix_A">4 Million</div>
@@ -67,7 +67,10 @@ function Round2() {
             <div className="user_input"><input  className="input_user"type="text" /></div>
         </div>
     </div>
+   
+   
 </div>
+<p className='footer'>Total amount = 20 Million</p>
     </div>
   )
 }

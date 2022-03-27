@@ -1,0 +1,32 @@
+.container_round3a{
+    height: 100vh;
+    background-color: black;
+    color: white;
+   text-align: center;
+   font-size: 25px;
+  
+}
+.round3a_heading{
+    margin: 30px;
+}
+.asset_table{
+    display: flex;
+    flex-direction: row;
+    margin-left: 30vw;
+   
+    margin-top: 20px;
+   
+}
+.asset{
+    margin: 10px;
+    
+}
+.input_choice{
+    margin:10px;
+    
+}
+.choice_input{
+    border: #1cb28e 1px solid;
+    border-radius: 10px;
+    background-color: black;
+}

@@ -7,7 +7,7 @@ function Round1() {
         {" "}
         <h1>SUIT-UP</h1>
       </div>
-      <div className="round_heading1">Round 3a - Hiring Employees</div>
+      <div className="round_heading1">Round 3b - Hiring Employees</div>
       <div className="table_round1">
         <div className="column1_round1">
           <div className="round1_1">#</div>

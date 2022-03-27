@@ -1,27 +1,44 @@
-.container_round2{
-    height: 100vh;
+.container_round2 {
+  height: 100vh;
+  background-color: black;
+  color: white;
+  text-align: center;
+  font-size: 25px;
+}
+.investor_round_table {
+  display: flex;
+  flex-direction: row;
+  margin-left: 10vw;
+  margin-right: 10vw;
+  align-items: center;
+}
+.matrix_A_input {
+  display: flex;
+  flex-direction: column;
+  border-right: #1cb28e 2px solid;
+  border-left: #1cb28e 2px solid;
+  padding: 10px;
+}
+.matrix_A {
+  
+  margin: 20px;
+}
+.matrix_A_category1 {
+  margin-bottom: 10px;
+  margin-top: -30px;
+}
+.matrix_A_category2 {
+  margin-bottom: 30px;
+  margin-top: 30px;
+}
+.matrix_A_category4 {
+  margin-top: 30px;
+}
+.input_user{
     background-color: black;
-    color: white;
-   text-align: center;
-   font-size: 25px;
+    border: #1cb28e 1px solid;
+    border-radius: 10px;
 }
-.investor_round_table{
-    display: flex;
-    flex-direction: row;
-    margin-left: 10vw;
-    margin-right: 10vw;
-    align-items: center;
-    
-}
-.matrix_A_input{
-    display: flex;
-    flex-direction: column;
-    border: #1CB28E 1px solid;
-}
-.matrix_A{
-    border: #1CB28E 1px solid;
-    margin: 20px;
-}
-.matrix_A_category{
-    margin-top: 10px;
+.footer{
+    margin: 30px;
 }

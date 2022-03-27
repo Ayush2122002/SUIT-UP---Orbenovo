@@ -1,0 +1,34 @@
+.container_round4{
+    height: 100vh;
+    background-color: black;
+    color: white;
+   text-align: center;
+   font-size: 25px;
+  
+}
+.round4_heading{
+    margin: 20px;
+}
+.ambassador_table{
+    display: flex;
+    flex-direction: row;
+    margin-left: 38vw;
+    margin-top: 70px;
+}
+.code_input{
+    border: #1cb28e 1px solid;
+    background-color: black;
+    border-radius: 10px;
+}
+.name_input{
+    border: #1cb28e 1px solid;
+    background-color: black;
+    border-radius: 10px;
+}
+.footer_round4-1{
+    margin: 20px;
+    
+}
+.footer_round4{
+    margin-top: 90px;
+}
